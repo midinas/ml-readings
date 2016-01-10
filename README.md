@@ -16,7 +16,7 @@ List of machine learning resources I found most valuable
 
 #### MISC
 - [Stanford Unsupervised Feature Learning and Deep Learning](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial) 
--- [Backpropagation and its vectorization](http://ufldl.stanford.edu/wiki/index.php/Backpropagation_Algorithm)
--- [Gradient checking](http://ufldl.stanford.edu/wiki/index.php/Gradient_checking_and_advanced_optimization)
+  - [Backpropagation and its vectorization](http://ufldl.stanford.edu/wiki/index.php/Backpropagation_Algorithm)
+  - [Gradient checking](http://ufldl.stanford.edu/wiki/index.php/Gradient_checking_and_advanced_optimization)
 - [NIPS2014 Workshop list/videos](https://nips.cc/Conferences/2014/Schedule?type=Workshop)
 - [Online Book D.McKay: Information Theory,Inference,and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf)
