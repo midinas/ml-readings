@@ -6,6 +6,14 @@ List of machine learning resources I found most valuable
 - [colah's blog on convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 - [WILDML blog on CNN for NLP problems](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 
+#### RNN / Attention
+- [Neural Machine Translation - seq2seq, ICLR 2015 Bahdanau, Cho, Bengio](http://arxiv.org/abs/1409.0473v6)
+- [Grammar as a foreign language, 2014 Vinyals, Kaiser, Koo, Petrov, Sutskever, Hinton](http://arxiv.org/abs/1412.7449)
+- [Pointer Networks, 2015 Vinyals, Fortunato, Jaitly](http://arxiv.org/abs/1506.03134)
+
+#### NN NLP / Q&A / Memory Networks
+- [Weakly supervised memory networks, 2015 Sukhbaatar, Szlam, Weston, Fergus](http://arxiv.org/abs/1503.08895)
+
 #### Reinforcement Learning
 - [DeepMind paper on deep RL](http://www.readcube.com/articles/10.1038%2Fnature14236?shared_access_token=Lo_2hFdW4MuqEcF3CVBZm9RgN0jAjWel9jnR3ZoTv0P5kedCCNjz3FJ2FhQCgXkApOr3ZSsJAldp-tw3IWgTseRnLpAc9xQq-vTA2Z5Ji9lg16_WvCy4SaOgpK5XXA6ecqo8d8J7l4EJsdjwai53GqKt-7JuioG0r3iV67MQIro74l6IxvmcVNKBgOwiMGi8U0izJStLpmQp6Vmi_8Lw_A%3D%3D) (Deep Q-Learning, experience replay) 
 - [Deep Reinforcement Learning with Double Q-learning](http://arxiv.org/abs/1509.06461)
