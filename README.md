@@ -18,6 +18,7 @@ List of machine learning resources I found most valuable
 - [Stanford Unsupervised Feature Learning and Deep Learning](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial) 
   - [Backpropagation and its vectorization](http://ufldl.stanford.edu/wiki/index.php/Backpropagation_Algorithm)
   - [Gradient checking](http://ufldl.stanford.edu/wiki/index.php/Gradient_checking_and_advanced_optimization)
+  - [Network initialization/activations explained, Stanford CS231nWinter, Karpathy](https://www.youtube.com/watch?v=gYpoJMlgyXA)
 - [NIPS2014 Workshop list/videos](https://nips.cc/Conferences/2014/Schedule?type=Workshop)
 - [Online Book D.McKay: Information Theory,Inference,and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf)
 - [colah's blog: Article about the intuition on information/entropy/KL divergence](http://colah.github.io/posts/2015-09-Visual-Information/)
