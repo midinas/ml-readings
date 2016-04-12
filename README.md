@@ -22,6 +22,9 @@ List of machine learning resources I found most valuable
 - [Monte Carlo method intro Video, Iain Murray NIPS2015](http://research.microsoft.com/apps/video/default.aspx?id=259575&l=i)
 - [MCMC Sampling intro/tutorial](http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/)
 
+#### Python
+- http://www.cs.ubc.ca/~nando/540-2013/python.html
+
 #### MISC
 - [Stanford Unsupervised Feature Learning and Deep Learning](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial) 
   - [Backpropagation and its vectorization](http://ufldl.stanford.edu/wiki/index.php/Backpropagation_Algorithm)
