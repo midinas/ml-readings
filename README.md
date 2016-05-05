@@ -19,8 +19,15 @@ List of machine learning resources I found most valuable
 - [Deep Reinforcement Learning with Double Q-learning](http://arxiv.org/abs/1509.06461)
 
 #### Probabilistic Models
+- [pyMC3 for Bayesian Modeling](https://github.com/pymc-devs/pymc3)
+  - [Python/PyMC3 versions of the programs described in Doing bayesian data analysis by John K. Kruschke](https://github.com/aloctavodia/Doing_bayesian_data_analysis) 
+- [Bayesian Modeling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
 - [Monte Carlo method intro Video, Iain Murray NIPS2015](http://research.microsoft.com/apps/video/default.aspx?id=259575&l=i)
 - [MCMC Sampling intro/tutorial](http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/)
+
+#### Gaussian Processes
+- [Neil Lawrence Lectures/Notebooks](http://gpss.cc/)
+  - http://nbviewer.jupyter.org/github/gpschool/gprs15a/blob/master/gaussian%20process%20introduction.ipynb
 
 #### Python
 - http://www.cs.ubc.ca/~nando/540-2013/python.html
