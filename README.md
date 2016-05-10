@@ -12,6 +12,7 @@ List of machine learning resources I found most valuable
 - [Pointer Networks, 2015 Vinyals, Fortunato, Jaitly](http://arxiv.org/abs/1506.03134)
 
 #### NN NLP / Q&A / Memory Networks
+- [Predicting distributions with Linearizing Belief Networks](http://arxiv.org/abs/1511.05622)
 - [Weakly supervised memory networks, 2015 Sukhbaatar, Szlam, Weston, Fergus](http://arxiv.org/abs/1503.08895)
 
 #### Reinforcement Learning
