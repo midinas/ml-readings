@@ -40,3 +40,4 @@ List of machine learning resources I found most valuable
 - [NIPS2014 Workshop list/videos](https://nips.cc/Conferences/2014/Schedule?type=Workshop)
 - [Online Book D.McKay: Information Theory,Inference,and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf)
 - [colah's blog: Article about the intuition on information/entropy/KL divergence](http://colah.github.io/posts/2015-09-Visual-Information/)
+- [What is the intuition behind a beta distribution](http://stats.stackexchange.com/questions/47771/what-is-the-intuition-behind-beta-distribution)
