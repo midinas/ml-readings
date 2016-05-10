@@ -6,10 +6,14 @@ List of machine learning resources I found most valuable
 - [colah's blog on convolutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 - [WILDML blog on CNN for NLP problems](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 
+#### NN
+- [Harnessing Deep Neural Networks with Logic Rules](http://arxiv.org/abs/1603.06318)
+
 #### RNN / Attention
 - [Neural Machine Translation - seq2seq, ICLR 2015 Bahdanau, Cho, Bengio](http://arxiv.org/abs/1409.0473v6)
 - [Grammar as a foreign language, 2014 Vinyals, Kaiser, Koo, Petrov, Sutskever, Hinton](http://arxiv.org/abs/1412.7449)
 - [Pointer Networks, 2015 Vinyals, Fortunato, Jaitly](http://arxiv.org/abs/1506.03134)
+- [NEURAL GPUS LEARN ALGORITHMS](http://arxiv.org/pdf/1511.08228v3.pdf) (Multilayer CGRU - generalizing to 2000bit length ops w/o error)
 
 #### NN NLP / Q&A / Memory Networks
 - [Predicting distributions with Linearizing Belief Networks](http://arxiv.org/abs/1511.05622)
