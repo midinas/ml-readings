@@ -47,3 +47,7 @@ Classification - 2015 Dauphin et al.](http://arxiv.org/pdf/1401.0509.pdf)
 - [Online Book D.McKay: Information Theory,Inference,and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf)
 - [colah's blog: Article about the intuition on information/entropy/KL divergence](http://colah.github.io/posts/2015-09-Visual-Information/)
 - [What is the intuition behind a beta distribution](http://stats.stackexchange.com/questions/47771/what-is-the-intuition-behind-beta-distribution)
+
+## Datasets
+
+- [Stanford Qestion&Answering Dataset SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
