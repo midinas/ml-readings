@@ -51,3 +51,6 @@ Classification - 2015 Dauphin et al.](http://arxiv.org/pdf/1401.0509.pdf)
 ## Datasets
 
 - [Stanford Qestion&Answering Dataset SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
+
+## Other Books / Tutorials
+- [Probability Theory - The Logic of Science, E.T. Jaynes](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf)
