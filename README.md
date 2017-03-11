@@ -30,7 +30,7 @@ Classification - 2015 Dauphin et al.](http://arxiv.org/pdf/1401.0509.pdf)
 - [Bayesian Modeling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
 - [Monte Carlo method intro Video, Iain Murray NIPS2015](http://research.microsoft.com/apps/video/default.aspx?id=259575&l=i)
 - [MCMC Sampling intro/tutorial](http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/)
-
+- [Online Book on Probabilistic Generative Models, Goodman, Tenenbaum](https://probmods.org)
 #### Gaussian Processes
 - [Neil Lawrence Lectures/Notebooks](http://gpss.cc/)
   - http://nbviewer.jupyter.org/github/gpschool/gprs15a/blob/master/gaussian%20process%20introduction.ipynb
@@ -47,7 +47,7 @@ Classification - 2015 Dauphin et al.](http://arxiv.org/pdf/1401.0509.pdf)
 - [Online Book D.McKay: Information Theory,Inference,and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf)
 - [colah's blog: Article about the intuition on information/entropy/KL divergence](http://colah.github.io/posts/2015-09-Visual-Information/)
 - [What is the intuition behind a beta distribution](http://stats.stackexchange.com/questions/47771/what-is-the-intuition-behind-beta-distribution)
-
+- [sugartensor lib on top of tensorflow](https://github.com/buriburisuri/sugartensor) (e.g. [Quasi-RNN reference impl](https://github.com/Kyubyong/quasi-rnn) 
 ## Datasets
 
 - [Stanford Qestion&Answering Dataset SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
