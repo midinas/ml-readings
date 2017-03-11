@@ -31,6 +31,7 @@ Classification - 2015 Dauphin et al.](http://arxiv.org/pdf/1401.0509.pdf)
 - [Monte Carlo method intro Video, Iain Murray NIPS2015](http://research.microsoft.com/apps/video/default.aspx?id=259575&l=i)
 - [MCMC Sampling intro/tutorial](http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/)
 - [Online Book on Probabilistic Generative Models, Goodman, Tenenbaum](https://probmods.org)
+
 #### Gaussian Processes
 - [Neil Lawrence Lectures/Notebooks](http://gpss.cc/)
   - http://nbviewer.jupyter.org/github/gpschool/gprs15a/blob/master/gaussian%20process%20introduction.ipynb
