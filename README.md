@@ -20,9 +20,14 @@ Classification - 2015 Dauphin et al.](http://arxiv.org/pdf/1401.0509.pdf)
 - [Predicting distributions with Linearizing Belief Networks](http://arxiv.org/abs/1511.05622)
 - [Weakly supervised memory networks, 2015 Sukhbaatar, Szlam, Weston, Fergus](http://arxiv.org/abs/1503.08895)
 
+#### Generative
+- [Video Frame Generation via Cross Convolution](https://github.com/tensorflow/models/tree/master/next_frame_prediction)
+
 #### Reinforcement Learning
+- [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/abs/1703.03864)
 - [DeepMind paper on deep RL](http://www.readcube.com/articles/10.1038%2Fnature14236?shared_access_token=Lo_2hFdW4MuqEcF3CVBZm9RgN0jAjWel9jnR3ZoTv0P5kedCCNjz3FJ2FhQCgXkApOr3ZSsJAldp-tw3IWgTseRnLpAc9xQq-vTA2Z5Ji9lg16_WvCy4SaOgpK5XXA6ecqo8d8J7l4EJsdjwai53GqKt-7JuioG0r3iV67MQIro74l6IxvmcVNKBgOwiMGi8U0izJStLpmQp6Vmi_8Lw_A%3D%3D) (Deep Q-Learning, experience replay) 
 - [Deep Reinforcement Learning with Double Q-learning](http://arxiv.org/abs/1509.06461)
+- 
 
 #### Probabilistic Modeling
 - [Edward python lib](http://edwardlib.org) / [Paper](https://arxiv.org/pdf/1701.03757.pdf)
@@ -33,9 +38,6 @@ Classification - 2015 Dauphin et al.](http://arxiv.org/pdf/1401.0509.pdf)
 - [MCMC Sampling intro/tutorial](http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/)
 - [Online Book on Probabilistic Generative Models, Goodman, Tenenbaum](https://probmods.org)
 - [Intro/Intuition on Variational Inference (e.g. KLqp vs. KLpq dist.div.) D.MacKay Lecture](http://videolectures.net/mackay_course_14/)
-
-##
-- [Video Frame Generation via Cross Convolution](https://github.com/tensorflow/models/tree/master/next_frame_prediction)
 
 #### Gaussian Processes
 - [Neil Lawrence Lectures/Notebooks](http://gpss.cc/)
