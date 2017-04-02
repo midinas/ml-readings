@@ -34,6 +34,9 @@ Classification - 2015 Dauphin et al.](http://arxiv.org/pdf/1401.0509.pdf)
 - [Online Book on Probabilistic Generative Models, Goodman, Tenenbaum](https://probmods.org)
 - [Intro/Intuition on Variational Inference (e.g. KLqp vs. KLpq dist.div.) D.MacKay Lecture](http://videolectures.net/mackay_course_14/)
 
+##
+- [Video Frame Generation via Cross Convolution](https://github.com/tensorflow/models/tree/master/next_frame_prediction)
+
 #### Gaussian Processes
 - [Neil Lawrence Lectures/Notebooks](http://gpss.cc/)
   - http://nbviewer.jupyter.org/github/gpschool/gprs15a/blob/master/gaussian%20process%20introduction.ipynb
@@ -49,7 +52,8 @@ Classification - 2015 Dauphin et al.](http://arxiv.org/pdf/1401.0509.pdf)
 - [NIPS2014 Workshop list/videos](https://nips.cc/Conferences/2014/Schedule?type=Workshop)
 - [Online Book D.McKay: Information Theory,Inference,and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf)
 - [What is the intuition behind a beta distribution](http://stats.stackexchange.com/questions/47771/what-is-the-intuition-behind-beta-distribution)
-- [sugartensor lib on top of tensorflow](https://github.com/buriburisuri/sugartensor) (e.g. [Quasi-RNN reference impl](https://github.com/Kyubyong/quasi-rnn) 
+- [sugartensor lib on top of tensorflow](https://github.com/buriburisuri/sugartensor) (e.g. [Quasi-RNN reference impl](https://github.com/Kyubyong/quasi-rnn))
+- 
 
 ### Datasets
 - [Stanford Qestion&Answering Dataset SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
@@ -59,5 +63,5 @@ Classification - 2015 Dauphin et al.](http://arxiv.org/pdf/1401.0509.pdf)
 
 ### Blogs
 - [colah's blog](http://colah.github.io/)
-  - [intuition on information/entropy/KL divergence](http://colah.github.io/posts/2015-09-Visual-Information/)
+  - [intuition on information/entropy/KL divergence](http://colah.github.io/posts/2015-09-Visual-Information)
 - [InFERENCe](http://www.inference.vc/)
