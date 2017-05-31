@@ -59,8 +59,7 @@ Classification - 2015 Dauphin et al.](http://arxiv.org/pdf/1401.0509.pdf)
 - [Online Book D.McKay: Information Theory,Inference,and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf)
 - [What is the intuition behind a beta distribution](http://stats.stackexchange.com/questions/47771/what-is-the-intuition-behind-beta-distribution)
 - [sugartensor lib on top of tensorflow](https://github.com/buriburisuri/sugartensor) (e.g. [Quasi-RNN reference impl](https://github.com/Kyubyong/quasi-rnn))
-#### Python
-- http://www.cs.ubc.ca/~nando/540-2013/python.html
+- [Python](http://www.cs.ubc.ca/~nando/540-2013/python.html)
 
 
 ## Datasets
