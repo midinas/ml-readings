@@ -51,6 +51,7 @@ Classification - 2015 Dauphin et al.](http://arxiv.org/pdf/1401.0509.pdf)
 - [Weakly supervised memory networks, 2015 Sukhbaatar, Szlam, Weston, Fergus](http://arxiv.org/abs/1503.08895)
 
 ### MISC
+- [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 - [Stanford Unsupervised Feature Learning and Deep Learning](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial) 
   - [Backpropagation and its vectorization](http://ufldl.stanford.edu/wiki/index.php/Backpropagation_Algorithm)
   - [Gradient checking](http://ufldl.stanford.edu/wiki/index.php/Gradient_checking_and_advanced_optimization)
