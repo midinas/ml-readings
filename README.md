@@ -75,5 +75,5 @@ Classification - 2015 Dauphin et al.](http://arxiv.org/pdf/1401.0509.pdf)
   - [intuition on information/entropy/KL divergence](http://colah.github.io/posts/2015-09-Visual-Information)
 - [InFERENCe](http://www.inference.vc/)
 
-' Computer Science Gems
+## Computer Science
 - [Power sets](http://sevko.io/articles/power-set-algorithms/)
