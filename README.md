@@ -77,3 +77,6 @@ Classification - 2015 Dauphin et al.](http://arxiv.org/pdf/1401.0509.pdf)
 
 ## Computer Science
 - [Power sets](http://sevko.io/articles/power-set-algorithms/)
+
+## Statistics
+- [Intro to confidence intervals and hypothesis testing](https://web.stanford.edu/class/polisci100a/hyptests.pdf)
