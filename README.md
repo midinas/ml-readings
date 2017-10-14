@@ -7,14 +7,18 @@ List of machine learning resources I found most valuable
 - [Classic HMM Intro Paper Rabiner](http://www.cs.umb.edu/~rvetro/vetroBioComp/HMM/Rabiner1986%20An%20Introduction%20to%20Hidden%20Markov%20Models.pdf)
 
 #### Probabilistic Modeling
-- [Edward python lib](http://edwardlib.org) / [Paper](https://arxiv.org/pdf/1701.03757.pdf)
-- [pyMC3 for Bayesian Modeling](https://github.com/pymc-devs/pymc3)
-  - [Python/PyMC3 versions of the programs described in Doing bayesian data analysis by John K. Kruschke](https://github.com/aloctavodia/Doing_bayesian_data_analysis) 
+- [Graphical Models, Exponential Families, and
+Variational Inference, Jordan, Wainwright](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
+- [Introduction to Kalman- and Bayesian-Filters (Book as a jupyter notebook)](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 - [Bayesian Modeling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
 - [Monte Carlo method intro Video, Iain Murray NIPS2015](http://research.microsoft.com/apps/video/default.aspx?id=259575&l=i)
 - [MCMC Sampling intro/tutorial](http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/)
 - [Online Book on Probabilistic Generative Models, Goodman, Tenenbaum](https://probmods.org)
 - [Intro/Intuition on Variational Inference (e.g. KLqp vs. KLpq dist.div.) D.MacKay Lecture](http://videolectures.net/mackay_course_14/)
+
+- [Edward python lib](http://edwardlib.org) / [Paper](https://arxiv.org/pdf/1701.03757.pdf)
+- [pyMC3 for Bayesian Modeling](https://github.com/pymc-devs/pymc3)
+  - [Python/PyMC3 versions of the programs described in Doing bayesian data analysis by John K. Kruschke](https://github.com/aloctavodia/Doing_bayesian_data_analysis) 
 
 #### Gaussian Processes
 - [Neil Lawrence Lectures/Notebooks](http://gpss.cc/)
@@ -40,6 +44,8 @@ Classification - 2015 Dauphin et al.](http://arxiv.org/pdf/1401.0509.pdf)
 - [Video Frame Generation via Cross Convolution](https://github.com/tensorflow/models/tree/master/next_frame_prediction)
 - [OpenAI: Generative Adversarial Imitation Learning](https://arxiv.org/pdf/1606.03476.pdf)
 - [Unsup. feature disentangling - InfoGAN](https://github.com/openai/InfoGAN)
+- [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
+- [The numerics of GANs / Consensus Optimization](https://arxiv.org/abs/1705.10461)
 
 ### Reinforcement Learning
 - [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/abs/1703.03864)
