@@ -2,20 +2,19 @@
 List of machine learning resources I found most valuable 
  
 ### Graphical Models
-- [Introduction to Markov Random Fields](http://www.cs.toronto.edu/~kyros/courses/2503/Handouts/Blake2011.pdf)
-- [Graphical Models, Exponential Families, and Variational Inference](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
-- [Classic HMM Intro Paper Rabiner](http://www.cs.umb.edu/~rvetro/vetroBioComp/HMM/Rabiner1986%20An%20Introduction%20to%20Hidden%20Markov%20Models.pdf)
-
-#### Probabilistic Modeling
 - [Graphical Models, Exponential Families, and
 Variational Inference, Jordan, Wainwright](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
+- [Classic HMM Intro Paper Rabiner](http://www.cs.umb.edu/~rvetro/vetroBioComp/HMM/Rabiner1986%20An%20Introduction%20to%20Hidden%20Markov%20Models.pdf)
+- [Introduction to Markov Random Fields](http://www.cs.toronto.edu/~kyros/courses/2503/Handouts/Blake2011.pdf)
+
+#### Probabilistic Modeling
 - [Introduction to Kalman- and Bayesian-Filters (Book as a jupyter notebook)](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 - [Bayesian Modeling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
 - [Monte Carlo method intro Video, Iain Murray NIPS2015](http://research.microsoft.com/apps/video/default.aspx?id=259575&l=i)
 - [MCMC Sampling intro/tutorial](http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/)
 - [Online Book on Probabilistic Generative Models, Goodman, Tenenbaum](https://probmods.org)
 - [Intro/Intuition on Variational Inference (e.g. KLqp vs. KLpq dist.div.) D.MacKay Lecture](http://videolectures.net/mackay_course_14/)
-
+- [Advanced Inference in Graphical Models - Youtube Lectures J.Bilmes](https://www.youtube.com/watch?v=M_M_DrFJ574&t=1561s)
 - [Edward python lib](http://edwardlib.org) / [Paper](https://arxiv.org/pdf/1701.03757.pdf)
 - [pyMC3 for Bayesian Modeling](https://github.com/pymc-devs/pymc3)
   - [Python/PyMC3 versions of the programs described in Doing bayesian data analysis by John K. Kruschke](https://github.com/aloctavodia/Doing_bayesian_data_analysis) 
